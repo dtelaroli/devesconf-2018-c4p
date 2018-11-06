@@ -22,7 +22,7 @@ Programadores, administradores de sistemas e qualquer um que se interesse por ap
 
 # Tempo de duração da palestra (5 min, 15 min, 30 min ou 45 min)
 
-30 min
+45 min
 
 # É sua primeira palestra?
 
